@@ -1,5 +1,5 @@
 const { keyboard, Key, up } = require("@nut-tree-fork/nut-js");
-
+//passenger details
 const customers = {
   customer1: {
     name: "RAJU PUSTI",
