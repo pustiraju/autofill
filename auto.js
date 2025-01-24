@@ -6,6 +6,7 @@ const customers = {
     age: 30,
     gender: 1
   },
+  // UN COMMENT FOR 2ND PASSENGER
   // customer2: {
   //   name: "RAJU PUSTIi",
   //   age: 30,
